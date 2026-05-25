@@ -28,7 +28,7 @@
 ## 📊 Developer Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaar-abd&theme=tokyonight&hide_border=true&sideNums=38bdf8&stroke=38bdf8" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaar-abd&theme=tokyonight&hide_border=true&sideNums=38bdf8&stroke=38bdf8" style="max-width: 100%; height: auto;" />
 </p>
 
 ## 🌌 Contribution Matrix
