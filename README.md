@@ -2,7 +2,6 @@
 ### 💻 **Information Technology Engineer** & **Flutter & Dart Developer**
 
 ---
-### 🧠 Core Digital Arsenal
 
 ### 🛠️ Frameworks & Languages & Tools
 <p align="left">
