@@ -4,7 +4,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxiYTM1cXpneXQ0Mjk3bms3b3d4ZndpZzR0bHF3Ym96b3Zndm9vYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TVI9svqLYATCc6/giphy.gif" width="350" alt="Developer Coding Animation"/>
 </p>
 
-
 ## 🧠 Core Digital Arsenal
 
 ### 🛠️ Frameworks & Languages
@@ -30,12 +29,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaar-abd&theme=tokyonight&hide_border=true&sideNums=38bdf8&stroke=38bdf8" style="max-width: 100%; height: auto;" />
 </p>
-
-## 🌌 Contribution Matrix
-<p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amaar-abd&theme=tokyonight" width="85%" />
-</p>
-
----
 
 ---
