@@ -5,7 +5,7 @@
 </p>
 ### 🧠 Core Digital Arsenal
 
-### 🛠️ Frameworks & Languages
+### 🛠️ Frameworks & Languages & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="50" height="50"/> &nbsp;
