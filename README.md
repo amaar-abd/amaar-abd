@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Amaar Abd Al Rahman
-### 💻 **Information Technology Engineer** & **Flutter & Dart Developer**
+### 💻 **Information Technology Engineer** & **Flutter Developer**
 
 ---
 
